@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/placer-ksteinke/placer-ksteinke/blob/main/github-header-image.png)
+![Banner Image](https://github.com/placer-ksteinke/placer-ksteinke/blob/main/github-header-image-placer.png)
 
 # Hi there, I'm Kevin Steinke! 👋
 
@@ -8,7 +8,6 @@ I'm a Developer with experience in C#, SQL, Powershell, and Blazor. I'm interest
 
 - 🌱 Currently learning: Blazor .net 8, 
 - 📫 How to reach me: ksteinke@placer.ca.gov
-
 
 ## My Skills 🧠
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,7 +20,7 @@ I'm a Developer with experience in C#, SQL, Powershell, and Blazor. I'm interest
 
 
 ## Get in Touch 📬
-
+- **[Personal GitHub]**(https://github.com/kjsteinke)
 - **[Personal Website / Blog]**(https://kevinsteinke.com)
 - **[LinkedIn]**(https://www.linkedin.com/in/kevinsteinke)
 
