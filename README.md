@@ -1,6 +1,6 @@
-# Hi there, I'm Kevin Steinke! 👋
+![Banner Image](https://github.com/placer-ksteinke/placer-ksteinke/blob/main/github-header-image.png)
 
-![Banner Image](your_banner_image_url_here)
+# Hi there, I'm Kevin Steinke! 👋
 
 ## About Me 🚀
 
