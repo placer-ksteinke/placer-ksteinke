@@ -20,9 +20,12 @@ I'm a Developer with experience in C#, SQL, Powershell, and Blazor. I'm interest
 
 
 ## Get in Touch 📬
-- **[Personal GitHub]**(https://github.com/kjsteinke)
-- **[Personal Website / Blog]**(https://kevinsteinke.com)
-- **[LinkedIn]**(https://www.linkedin.com/in/kevinsteinke)
+- [Personal GitHub](https://github.com/kjsteinke)
+- [Personal Website / Blog](https://kevinsteinke.com)
+- [LinkedIn](https://www.linkedin.com/in/kevinsteinke)
+
+- [Placer County Enterprise](https://github.com/enterprises/placercountycalifornia)
+- 
 
 
 <!--
